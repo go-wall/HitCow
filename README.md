@@ -1,4 +1,0 @@
-HitCow
-======
-
-First Android Application
